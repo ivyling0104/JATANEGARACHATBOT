@@ -284,7 +284,7 @@
   </div>
 </div>
 
-<footer>Study Buddy Bot · For educational use only · Not for homework completion</footer>
+<footer>Study Buddy Bot · For educational use only · Not for homework completion · 📞 <a href="tel:0123456789">0123456789</a></footer>
 
 <script>
 // ─── State ────────────────────────────────────────────────────────────────────
@@ -419,7 +419,7 @@ Saya nampak kamu menghadapi sesuatu yang mungkin lebih sesuai dibantu oleh <stro
 Sila hubungi:<br>
 <ul>
   <li>🏫 <strong>Guru kamu</strong> di sekolah</li>
-  <li>📞 <strong>Talian Kasih</strong>: 15999 (kaunseling &amp; bimbingan)</li>
+  <li>📞 <strong>Hubungi terus</strong>: <a href="tel:0123456789"><strong>0123456789</strong></a> — untuk bantuan daripada guru / mentor sebenar</li>
   <li>👨‍👩‍👧 <strong>Ibu bapa atau penjaga</strong> kamu</li>
 </ul>
 Saya tetap di sini jika kamu ingin belajar tentang mana-mana topik akademik! 😊`,
